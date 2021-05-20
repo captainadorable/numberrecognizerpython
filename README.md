@@ -1,4 +1,4 @@
-# numberrecognizerpython
+# Number Recognizer Python
 Number recognizer using tenserflow and pygame.
 
 # Preview
